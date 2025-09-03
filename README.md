@@ -1,28 +1,28 @@
 <h1>👋 Hi there! i'am Gabriel Gazzinelli, welcome!!!</h1>
  
-- 🔭 Intern at DTI Digital.
-- 📚 Pursuing a degree in computer science at Fumec university 5/8.
-- ⚡ I'am currently trying to improve my full-stack skills to get a international job.
-- 🎮 My hobbies GameDev Unity e data science / AI.
-- 👀 Take a look at my <a href="https://bruno9407.github.io/Porfolio/">portfolio</a>.
+- 🔭 Em busca de um oportunidade
+- 📚  Cursando Ciência da Computação na Universidade Fumec 6/8.
+- ⚡ Atualmente, estou tentando aprimorar minhas habilidades em segurança cibernética para conseguir um emprego internacional.
+- 🎮 Meu hobbie é CyberSegurança
+
  
 <div>
 <h2>Git stats</h2>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bruno9407&show_icons=true&theme=dark&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruno9407&layout=donut&langs_count=5&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabrielgazzin&show_icons=true&theme=dark&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielgazzin&layout=donut&langs_count=5&theme=dark"/>
 </div>
 <div style="display:inline-block;">
 <h2 style="text-align:center;">Main technologies</h2>
 <div style="margin:auto;">
-<img aling="center" alt="Bruno-html" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
-<img aling="center" alt="Bruno-css" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
-<img aling="center" alt="Bruno-ts" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /> 
-<!--<img aling="center" alt="Bruno-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>-->
-<img aling="center" alt="Bruno-react" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
-<img aling="center" alt="Bruno-node" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-<img aling="center" alt="Bruno-sql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-<!--<img aling="center" alt="Bruno-react" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
-<img aling="center" alt="Bruno-react" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"/>-->
+<img aling="center" alt="Gabriel-html" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
+<img aling="center" alt="Gabriel-css" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
+<img aling="center" alt="Gabrielo-ts" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /> 
+<!--<img aling="center" alt="Gabriel-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>-->
+<img aling="center" alt="Gabriel-react" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
+<img aling="center" alt="Gabriel-node" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+<img aling="center" alt="Gabriel-sql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+<!--<img aling="center" alt="Gabriel-react" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+<img aling="center" alt="Gabriel-react" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"/>-->
 </div>
 </div>
  
